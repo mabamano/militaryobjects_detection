@@ -88,9 +88,7 @@ python run_model.py
 
 ---
 
-## 📸 Preview
 
-> _(Add a screenshot of your UI here if available)_
 
 ---
 
@@ -105,9 +103,4 @@ This project is open-source and free to use for educational or research purposes
 **Manojkumar M**
 _Internship Project – Real-time ML & UI with TensorFlow + Pygame_
 
-```
 
----
-
-
-```
